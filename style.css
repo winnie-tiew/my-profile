@@ -1,0 +1,47 @@
+h1{
+	color:grey;
+	font-family: 'Abril Fatface', cursive;
+}
+
+h2{
+	font-family: 'Pacifico', cursive;
+}
+
+img{
+	border-radius: 50%;
+}
+
+div{
+	text-align: center;
+	background-color:#f2ff9f;
+	padding: 50px;
+	margin: 20px;
+	margin-left:50px;
+	margin-right: 50px;
+	border-style:solid;
+	@media:720px;
+}
+
+.square{
+   display:inline;
+   width: 80px;
+   height: 80px;
+   background-size: 100% 100%;
+}
+
+a{
+	text-decoration: none;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+}
+
+.btn-blue{
+	background-color: #FDA77F;
+	color:black;
+	padding:10px 15px;
+	outline:black;
+	border-style:white;
+}
